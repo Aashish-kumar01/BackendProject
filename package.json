@@ -2,11 +2,16 @@
   "name": "backendproject",
   "version": "1.0.0",
   "description": "a backend project by chai and code ",
+  "types": "module",
   "license": "ISC",
   "author": "Utkarsh kumar",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
-    "test": "javascript , chai"
+    "test": "javascript , chai",
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
   }
 }
