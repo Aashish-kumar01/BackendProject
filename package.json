@@ -1,0 +1,12 @@
+{
+  "name": "backendproject",
+  "version": "1.0.0",
+  "description": "a backend project by chai and code ",
+  "license": "ISC",
+  "author": "Utkarsh kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "javascript , chai"
+  }
+}
